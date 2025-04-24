@@ -69,11 +69,76 @@ Darice her wish to be able to follow podcast immediately spoke to me and instant
 
 I took a look at the Apple podcast transcript and immediately could envision Darice her frustration. Although, the podcast transcript is easy on the eyes and good to follow, it is boring/plain, has no emotion or nuance and it is impossible to know who is talking or interrupting, which makes it super hard to really experience what is going on and what the vibes are of the podcast. 
 
-<img src="/images/process/podcast-transcript.PNG" width="50%" height="50%" alt="Example Apple podcast transcript">
+<img src="/images/process/podcast-transcript.PNG" width="35%" height="35%" alt="Example Apple podcast transcript">
 
 In addition with everything she mentioned about things that are hard for her, with key things such as people interrupting each other, people speaking off camera and nuance in emotions. And seeing that these podcast video's still miss this as well, I decided I wanted to create a digital prototype that transcripts podcasts in a fun way with emotion(like humour), vibes(like choas), nuance, people interrupting and clearly seeing who is speaking all included.
 
 I choose a fragment of the BIMS podcasts, a podcast Darice mentioned and likes, and one I can envision, comes over completely different in a 'normal'/now standard transcript, due to the strong personalities of the people and their hectic conversations.
+🔗 https://www.youtube.com/watch?v=k-sZ7wFEdNc
 
 ### Transcript setup
 We immediatly got handed a convenient repository from Vasilis, that made it possible to time text/captions linked to a YouTube video.
+
+### Sketch
+I then roughly sketched out what I wanted to make:
+<img src="/images/process/concept-sketch.JPG" width="80%" height="auto" alt="Concept sketch">
+
+## Next steps
+For the following week I wanted to pitch my concept to Darice and make a start on coding it.
+
+# 🤎 Week 2
+## Test #2 Podcast transcript concept
+During this test I pitched my idea to Darice, showed het my sketch and asked her some further questions.
+
+### Scope of the test:
+I understood last time that you prefer reading podcasts on your phone, right? That’s what I’ve based my concept on.
+
+I especially want to focus on what you mentioned earlier — that it’s often unclear who is speaking when, a lot of nuance gets lost, and the text is quickly polished in a way that the personalities don’t really come through.
+
+I’d like to apply this either to podcast transcriptions (like in my sketch) or even on top of video-recorded podcasts.
+
+Right now, I’m mainly wondering what your preference would be.
+
+#### Answer Darice:
+* This is something new for me — normally, emotion doesn’t need to be in the text, but now it definitely does.
+* Making interruptions clearly visible seems like a really good idea!
+
+## Start coding
+When I started coding I took the audio player of my concept as the starting point, hence everything works on the timing. 
+
+<img src="images/process/screenshot-week3-start-style&layout-audioplayer.png">
+
+#### Sources:
+🔗 https://css-tricks.com/lets-create-a-custom-audio-player/
+🔗 https://dev.to/ctrlcoding/how-to-create-a-simple-audio-player-in-html-javascript-and-css-4l2e
+
+## Feedback 2
+I quickly got some feedback from Marie and Vasilis:
+
+#### Marie
+* Gamification — make it playful
+* Make/keep it interesting to read, not like a book
+
+#### Vasilis
+* Start from what you want to test
+* Is timing important?
+    * *Yes, timing is important to convey things such as chaos or a hectic conversation or the timing of an interruption*
+* Slider for the amount of text size and/or effects; level of annoyance
+
+
+## Next steps
+Things I (will) changed based on the feedback and my next steps:
+* Don't focus on the audio player element, because this is not necessary for the test or for a successful prototype. 
+* Instead I will focus on adding the text/captions based on the timing and adding the figures and their emotions changing.
+
+# 🥡 Week 3
+
+## Memoji's and captions
+After I received feedback in week 2, I started week 3 by focusing on what is the most important to get to work and to have ready for the next test. Which in this case was adding the captions and timing, adding the memoji's with some styling and the emotions of the memoji's changing.
+
+### Adding Memoji's
+Firstly, I added the figures in the form of Memoji's and positioned them on the screen. 
+Initially, I used a `<div>` with an `<img>` inside, but I realised it would be easier to use the CSS background-image property, because I can easily change this with the CSS class that is being added at certain timestaps. This way it is easier to make the image and thus emotion change.
+
+#### With `<div>` and `<img>`
+<img src="/images/process/screenshot-week3-div-img.png" alt="Memoji's with `<div>` and `<img>` elements">
