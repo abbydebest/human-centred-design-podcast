@@ -174,7 +174,7 @@ During this test I showed and tested my version with memoji's, the timed caption
 * Move the text up and down to make it clear when two people are speaking at the same time and interrupting each other
 
 ### Result of iterations #1
-<img src="/images/process/video-week3-dropshadow.mov" alt="video of first iterations">
+<source src="/images/process/video-week3-dropshadow.mov" alt="video of first iterations" type="video/mov">
 
 ## Next steps
 * Time the text better — keep previously spoken text visible a bit longer
@@ -195,4 +195,4 @@ During this test I presented my iterated prototype with upscaling of the memoji'
 ## End result
 After my last test with Marie, I made some last iterations to create a complete prototype.
 
-<img src="/images/process/video-end-result.mov" alt="Video end result">
+<video src="/images/process/video-end-result.mov" alt="Video end result" type="video/mov">
