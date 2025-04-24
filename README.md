@@ -69,6 +69,8 @@ Darice her wish to be able to follow podcast immediately spoke to me and instant
 
 I took a look at the Apple podcast transcript and immediately could envision Darice her frustration. Although, the podcast transcript is easy on the eyes and good to follow, it is boring/plain, has no emotion or nuance and it is impossible to know who is talking or interrupting, which makes it super hard to really experience what is going on and what the vibes are of the podcast. 
 
+![Example Apple podcast transcript](/images/process/podcast-transcript.PNG)
+
 In addition with everything she mentioned about things that are hard for her, with key things such as people interrupting each other, people speaking off camera and nuance in emotions. And seeing that these podcast video's still miss this as well, I decided I wanted to create a digital prototype that transcripts podcasts in a fun way with emotion(like humour), vibes(like choas), nuance, people interrupting and clearly seeing who is speaking all included.
 
 I choose a fragment of the BIMS podcasts, a podcast Darice mentioned and likes, and one I can envision, comes over completely different in a 'normal'/now standard transcript, due to the strong personalities of the people and their hectic conversations.
