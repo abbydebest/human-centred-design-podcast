@@ -158,3 +158,41 @@ I proceeded to add the captions and timings manually. Because my podcast fragmen
 After adding the captions with their timing, I was able to add and change the different emotions/expressions of the memoji's on those same timings.
 <img src="/images/process/screenshot-week3-change-memoji.png" alt="Change memoji emotion/expression on timing">
 
+## Test #3 Transcript prototype
+During this test I showed and tested my version with memoji's, the timed captions and their emotions changing.
+
+#### Tips and feedback from Darice
+* The video gets in the way
+* I need to see it a few times because it’s new
+* I do see a lot of potential in it
+* Make the movement/changes of the characters clearer
+* Make the text a bit more readable
+
+## Iterations
+* Scale the memoji up, when person is speaking
+* Add a drop shadow to make it even more clear who is speaking
+* Move the text up and down to make it clear when two people are speaking at the same time and interrupting each other
+
+### Result of iterations #1
+<img src="/images/process/video-week3-dropshadow.mov" alt="video of first iterations">
+
+## Next steps
+* Time the text better — keep previously spoken text visible a bit longer
+* Improve text readability
+* Indicate speaking/text speed through timing, size, and color fill
+* Make character movement clearer with size, glow, and color
+
+# 🎞️ Week 4
+## Test #4 Transcript and animation
+During this test I presented my iterated prototype with upscaling of the memoji's and their drop shadow.
+
+#### Tips and feedback from Marie
+* Use more contrast
+* Make use of the screen space
+* Enlarge the text, characters, colors, and effects
+* Be bold!
+
+## End result
+After my last test with Marie, I made some last iterations to create a complete prototype.
+
+<img src="/images/process/video-end-result.mov" alt="Video end result">
