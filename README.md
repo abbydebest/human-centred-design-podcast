@@ -110,6 +110,7 @@ When I started coding I took the audio player of my concept as the starting poin
 
 #### Sources:
 🔗 https://css-tricks.com/lets-create-a-custom-audio-player/
+
 🔗 https://dev.to/ctrlcoding/how-to-create-a-simple-audio-player-in-html-javascript-and-css-4l2e
 
 ## Feedback 2
@@ -142,3 +143,18 @@ Initially, I used a `<div>` with an `<img>` inside, but I realised it would be e
 
 #### With `<div>` and `<img>`
 <img src="/images/process/screenshot-week3-div-img.png" alt="Memoji's with `<div>` and `<img>` elements">
+
+#### With background-image
+Adding a background-image in CSS to easily change with timings and sounds on the left.
+<img src="/images/process/screenshot-week3-background-img.png" alt="With background-image in CSS">
+
+<img src="/images/process/screenshot-week3-memoji&apos;s-result.png" alt="Result of memoji's">
+
+### Adding captions and timing
+I proceeded to add the captions and timings manually. Because my podcast fragment is quite hectic there was no automatic script file available. This took up quite some time.
+<img src="/images/process/screenshot-week3-start-captions+timing-.png" alt="Captions and timing">
+
+### Changing Memoji emotion on sound
+After adding the captions with their timing, I was able to add and change the different emotions/expressions of the memoji's on those same timings.
+<img src="/images/process/screenshot-week3-change-memoji.png" alt="Change memoji emotion/expression on timing">
+
